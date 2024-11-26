@@ -16,8 +16,7 @@ const words = [
   "Why do you wanna become a programmer?",
   "Which programming language you like the most?",
   "What is Golang? and why do you wanna learn it?",
-  "What is CSS",
-  "Do you wanna date with me?",
+  "What is CSS"
 ];
 
 const game = {
